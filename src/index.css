@@ -1,0 +1,52 @@
+.container {
+  display : flex;
+  height: 150px;
+  width: 400px;
+}
+.container2 {
+  border: 1px rgb(14, 13, 13) solid;
+  padding: 10px;
+  margin : auto;
+  width: 400px;
+  height: 250px;
+  text-align: center;
+  background : rgba(95, 85, 85, 0.678);
+}
+
+.container div{
+  border: 1px rgb(20, 16, 16) solid;
+  padding: 10px;
+  height: 150px;
+}
+
+.actual {
+  width: 10px;
+  height: 10px;
+}
+
+.buttons {
+  width: 300px;
+  height: 200px;
+}
+
+.desc {
+  margin : 40px;
+}
+
+li {
+  border : 1px #ccc solid;
+  padding : 10px;
+}
+
+label {
+  color : black;
+  font-style: oblique;
+  font-size: 20px;
+}
+
+button {
+  background : rgb(182, 93, 182);
+  width: 50px;
+  height: 25px;
+  font-style: italic;
+}
